@@ -1,0 +1,5 @@
+name        = "ns_origin_wip"
+source_dir  = "source/"
+output_dir  = "output/"
+description = [=[]=]
+image       = "preview.jpg"
