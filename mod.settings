@@ -1,12 +1,12 @@
 name        = "ns_origin_wip"
 source_dir  = "source"
 output_dir  = "output"
-description = [=[(Work in Progress)
-
-For use exclusively on DiamondGamers.net servers.
-
---As mods have to run through the workshop, and not directly from the server - this is a server specific mod for DiamondGamers.net - I ask that it not be copied without permission. --
-
+description = [=[(Work in Progress)
+
+For use exclusively on DiamondGamers.net servers.
+
+--As mods have to run through the workshop, and not directly from the server - this is a server specific mod for DiamondGamers.net - I ask that it not be copied without permission. --
+
 ]=]
 image       = "preview.jpg"
-publish_id = "1cad3d60"
+publish_id = "1cad64da"
